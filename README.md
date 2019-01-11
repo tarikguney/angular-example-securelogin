@@ -1,27 +1,25 @@
-# AppSecureLogin
+# Secure Login App in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project is a collaborative effort of people who have been learning Angular at Motorola Solutions Inc.  We came together and started developing this application to learn Routes, Material Design, Directives, Components, Guards, Module, Services with Dependency Injection, and other constructs in Angular 7x.
 
-## Development server
+# How to download?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+You can either use `git clone https://github.com/tarikguney/angular-example-securelogin` if you have Git installed on your machine, or download the project as a .zip file from the website itself. 
 
-## Code scaffolding
+# How to run?
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Once you have downloaded the source code, follow the steps below:
 
-## Build
+1. Make sure you have NodeJS installed by typing in `node` on  your command prompt. If you see `node` commands, then you are good. Otherwise, download NodeJs from nodejs.org. I would recommend the download of current NodeJS version instead of LTS version. 
+2. The project does not come with `node_modules` folder; therefore, you need run `npm install` only once to get all the nodule modules from npm registry before you start the project. 
+3. Once you have downloaded all the `node_modules`, now you can run either of the following commands: `npm start` or `ng serve -o` to start the built-in angular server to start serving the angular files to the browser to see the project running. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+If you are having port conflict, then set the port to something else. By default, Angular uses `4200` port, and you can change with `--port` option as in `ng serve -o --port 4201`. 
 
-## Running unit tests
+# Having a problem?
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Talk to @tarikguney or create a new issue under the Issues tab on Github.
 
-## Running end-to-end tests
+Developed by Motorola Solutions employees with <3...
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
