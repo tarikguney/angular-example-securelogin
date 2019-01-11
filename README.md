@@ -1,5 +1,7 @@
 # Secure Login App in Angular
 
+![Motorola Solutions Logo](moto-logo.png)
+
 This project is a collaborative effort of people who have been learning Angular at Motorola Solutions Inc.  We came together and started developing this application to learn Routes, Material Design, Directives, Components, Guards, Module, Services with Dependency Injection, and other constructs in Angular 7x.
 
 # How to download?
