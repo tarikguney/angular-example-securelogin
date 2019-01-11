@@ -1,0 +1,58 @@
+[
+    {
+        "productId": 1,
+        "productName": "Xbox360",
+        "releaseDate": "11/15/2003",
+        "inventoryCount": 2,
+        "availablity": true 
+    },
+    {
+        "productId": 2,
+        "productName": "PS3",
+        "releaseDate": "11/20/2002",
+        "inventoryCount": 0,
+        "availablity": false
+    },
+    {
+        "productId": 3,
+        "productName": "Sega",
+        "releaseDate": "11/12/1988",
+        "inventoryCount": 1,
+        "availablity": true
+    },
+    {
+        "productId": 4,
+        "productName": "Game Boy",
+        "releaseDate": "11/15/1991",
+        "inventoryCount": 2,
+        "availablity": true
+    },
+    {
+        "productId": 5,
+        "productName": "PSP",
+        "releaseDate": "09/15/2001",
+        "inventoryCount": 3,
+        "availablity": true
+    },
+    {
+        "productId": 6,
+        "productName": "Dream Cast",
+        "releaseDate": "11/18/1990",
+        "inventoryCount": 4,
+        "availablity": true
+    },
+    {
+        "productId": 7,
+        "productName": "Xbox One",
+        "releaseDate": "11/15/2013",
+        "inventoryCount": 5,
+        "availablity": true
+    },
+    {
+        "productId": 8,
+        "productName": "PS4",
+        "releaseDate": "11/15/2013",
+        "inventoryCount": 0,
+        "availablity": false
+    }
+]

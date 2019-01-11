@@ -1,0 +1,19 @@
+.login-form-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+  }
+  
+  .button-flex-container {
+    display: flex;
+    width: 550px;
+    justify-content: flex-end;
+  }
+
+  span {
+    color: red ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

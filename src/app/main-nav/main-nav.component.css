@@ -1,0 +1,28 @@
+.sidenav-container {
+  height: 10%;
+}
+
+.sidenav {
+  width: 200px;
+  box-shadow: 3px 0 6px rgba(0,0,0,.24);
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.mat-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.mat-toolbar {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif; 
+}
