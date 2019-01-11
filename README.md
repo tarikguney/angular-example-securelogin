@@ -13,7 +13,7 @@ You can either use `git clone https://github.com/tarikguney/angular-example-secu
 Once you have downloaded the source code, follow the steps below:
 
 1. Make sure you have NodeJS installed by typing in `node` on  your command prompt. If you see `node` commands, then you are good. Otherwise, download NodeJs from nodejs.org. I would recommend the download of current NodeJS version instead of LTS version. 
-2. The project does not come with `node_modules` folder; therefore, you need run `npm install` only once to get all the nodule modules from npm registry before you start the project. 
+2. The project does not come with `node_modules` folder; therefore, you need run `npm install` only once to get all the node modules from npm registry before you start the project. This project stores all of its dependent npm modules in `package.json` and `package-lock.json` files. 
 3. Once you have downloaded all the `node_modules`, now you can run either of the following commands: `npm start` or `ng serve -o` to start the built-in angular server to start serving the angular files to the browser to see the project running. 
 
 If you are having port conflict, then set the port to something else. By default, Angular uses `4200` port, and you can change with `--port` option as in `ng serve -o --port 4201`. 
